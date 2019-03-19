@@ -43,13 +43,13 @@
 .megamenu-type-10 #main .mega-menu-modules > div:last-child > div{padding-left:0px;}
 .megamenu-type-17 #main .mega-menu-modules > div:last-child > div{padding-left:0px;}
 .megamenu-background{border-bottom:2px solid #4f714c;border-top:2px solid #4f714c;position:relative;}
-.megamenu-background > div{background:url(../img/bg-megamenu.png) top left repeat-x;}
-.megamenu-type-7 .megamenu-background > div .overflow-megamenu{background:url(../img/bg-megamenu.png) bottom left repeat-x;}
+.megamenu-background > div{background:url(https://outdoorhome.com/catalog/view/theme/fastor/img/bg-megamenu.png) top left repeat-x;}
+.megamenu-type-7 .megamenu-background > div .overflow-megamenu{background:url(https://outdoorhome.com/catalog/view/theme/fastor/img/bg-megamenu.png) bottom left repeat-x;}
 .megamenu-type-6 .megamenu-background{border-radius:8px;-webkit-border-radius:8px;-moz-border-radius:8px;}
 .megamenu-type-28 .megamenu-background > div{background:none;-webkit-box-shadow:0px 0px 10px 0px rgba(0, 0, 0, 0.15);-moz-box-shadow:0px 0px 10px 0px rgba(0, 0, 0, 0.15);box-shadow:0px 0px 10px 0px rgba(0, 0, 0, 0.15);}
 .megamenu-type-30 .megamenu-background > div{background:none;-webkit-box-shadow:0px 0px 0px 1px rgba(0,0,0,0.1);-moz-box-shadow:0px 0px 0px 1px rgba(0,0,0,0.1);box-shadow:0px 0px 0px 1px rgba(0,0,0,0.1);}
 .megamenu-type-32 .megamenu-background > div{background:none;}
-.megamenu-type-32 .megamenu-background > div > div > div{background:url(../img/bg-megamenu.png) bottom left repeat-x;}
+.megamenu-type-32 .megamenu-background > div > div > div{background:url(https://outdoorhome.com/catalog/view/theme/fastor/img/bg-megamenu.png) bottom left repeat-x;}
 .megamenu-type-33 .megamenu-background > div{background:none;}
 .megamenu-type-33 .megamenu-background > div > div > div{border-bottom:1px solid rgba(255, 255, 255, .1);}
 .megamenu-type-6 .megamenu-background > div{background:none;}
@@ -129,10 +129,10 @@ ul.megamenu > li.pull-right{float:right;margin:0px 0px 0px 10px;}
 .megamenu-type-7 ul.megamenu > li.pull-right{border:none;background:#f7efe4;border-top:1px solid #ded7cd;border-bottom:1px solid #ded7cd;height:61px;}
 .megamenu-type-7 .standard-body #main .fixed ul.megamenu > li.pull-right{margin-right:-40px;}
 .megamenu-type-11 #main ul.megamenu > li.pull-right{margin:0px -45px 0px 10px;}
-.megamenu-type-11 #main ul.megamenu > li.pull-right{border:none;background:url(../img/bg-megamenu.png) top left repeat-y;}
+.megamenu-type-11 #main ul.megamenu > li.pull-right{border:none;background:url(https://outdoorhome.com/catalog/view/theme/fastor/img/bg-megamenu.png) top left repeat-y;}
 .megamenu-type-11 .standard-body #main .fixed ul.megamenu > li.pull-right{margin-right:-40px;}
 .megamenu-type-22 #main ul.megamenu > li.pull-right{margin:0px -45px 0px 10px;}
-.megamenu-type-22 #main ul.megamenu > li.pull-right{border:none;background:url(../img/bg-megamenu.png) top left repeat-y;}
+.megamenu-type-22 #main ul.megamenu > li.pull-right{border:none;background:url(https://outdoorhome.com/catalog/view/theme/fastor/img/bg-megamenu.png) top left repeat-y;}
 .megamenu-type-22 .standard-body #main .fixed ul.megamenu > li.pull-right{margin-right:-40px;}
 .megamenu-type-13 #main ul.megamenu > li.pull-right{margin:0px -45px 0px 10px;}
 .megamenu-type-13 ul.megamenu > li.pull-right{border:none;}
@@ -330,7 +330,7 @@ ul.megamenu li .product .sale,
 ul.megamenu li .product .new{margin-top:-5px;}
 .products-carousel-overflow{margin-bottom:12px;position:relative;text-align:center;}
 .products-carousel-overflow .product{margin-bottom:0px !important;padding-bottom:50px;padding-top:50px;padding-left:10px;padding-right:10px;position:static !important;}
-.products-carousel-overflow .product:after{content:'';position:absolute;top:15px;bottom:15px;right:-1px;width:1px;display:block;background:url(../img/bg-megamenu.png) top left repeat-y;transition:border-color 0.2s ease-in;-webkit-transition:border-color 0.2s ease-in;-moz-transition:border-color 0.2s ease-in;}
+.products-carousel-overflow .product:after{content:'';position:absolute;top:15px;bottom:15px;right:-1px;width:1px;display:block;background:url(https://outdoorhome.com/catalog/view/theme/fastor/img/bg-megamenu.png) top left repeat-y;transition:border-color 0.2s ease-in;-webkit-transition:border-color 0.2s ease-in;-moz-transition:border-color 0.2s ease-in;}
 .products-carousel-overflow .box-heading{margin:0px auto;padding:0px 0px 9px 0px;display:inline-block;font-size:20px;font-weight:400;border-bottom:2px solid #4f714c;position:relative;z-index:1;}
 .products-carousel-overflow .strip-line{display:none;}
 .products-carousel-overflow > .prev,
@@ -344,8 +344,8 @@ ul.megamenu li .product .new{margin-top:-5px;}
 .products-carousel-overflow > .next:before{content:"\f054";}
 .products-carousel-overflow > .prev:hover:before,
 .products-carousel-overflow > .next:hover:before{color:#fff;}
-.products-carousel-overflow .clear:before{height:1px;content:'';left:0;right:0;margin-top:-1px;position:absolute;background:url(../img/bg-megamenu.png) top left repeat-x;z-index:1;display:block;}
-.products-carousel-overflow .clear:after{height:1px;content:'';left:0;bottom:0;right:0;position:absolute;background:url(../img/bg-megamenu.png) top left repeat-x;z-index:1;display:block;}
+.products-carousel-overflow .clear:before{height:1px;content:'';left:0;right:0;margin-top:-1px;position:absolute;background:url(https://outdoorhome.com/catalog/view/theme/fastor/img/bg-megamenu.png) top left repeat-x;z-index:1;display:block;}
+.products-carousel-overflow .clear:after{height:1px;content:'';left:0;bottom:0;right:0;position:absolute;background:url(https://outdoorhome.com/catalog/view/theme/fastor/img/bg-megamenu.png) top left repeat-x;z-index:1;display:block;}
 ul.megamenu li .sub-menu .content .open-categories,
 ul.megamenu li .sub-menu .content .close-categories{display:none;}
 ul.megamenu li .sub-menu .content .static-menu a.main-menu{font-weight:400;font-size:20px;position:relative;padding:0px 0px 11px 0px;display:inline-block;}
@@ -362,7 +362,7 @@ ul.megamenu li .sub-menu .content .static-menu .menu ul .categories-image-right 
 ul.megamenu li .sub-menu .content .hover-menu .menu > ul > li{position:relative;margin:0px -30px;font-family:Quattrocento;}
 ul.megamenu li .sub-menu .content .hover-menu a.main-menu{display:block;position:relative;margin:0px;padding:12px 20px 8px;font-size:14px;font-weight:400;}
 ul.megamenu li .sub-menu .content .hover-menu .col-sm-12 a.main-menu,
-ul.megamenu li .sub-menu .content .col-sm-12 .hover-menu a.main-menu{background:url(../img/bg-megamenu.png) top left repeat-x;}
+ul.megamenu li .sub-menu .content .col-sm-12 .hover-menu a.main-menu{background:url(https://outdoorhome.com/catalog/view/theme/fastor/img/bg-megamenu.png) top left repeat-x;}
 ul.megamenu li .sub-menu .content .hover-menu li:first-child a.main-menu{background:none;}
 ul.megamenu li .sub-menu .content .hover-menu .menu ul li:hover > a{color:#4f714c;}
 ul.megamenu li .sub-menu .content .hover-menu a.with-submenu{overflow:hidden;-webkit-transition:all 0.2s ease-out;-moz-transition:all 0.2s ease-out;-o-transition:all 0.2s ease-out;-ms-transition:all 0.2s ease-out;transition:all 0.2s ease-out;}
@@ -379,20 +379,20 @@ ul.megamenu li:hover .sub-menu .content .hover-menu .menu ul ul{display:block;}
 ul.megamenu li .sub-menu .content .hover-menu .menu ul ul.active{display:block;opacity:1;filter:alpha(opacity=100);visibility:visible;margin-left:0px;}
 ul.megamenu li .sub-menu .content .hover-menu .menu ul ul:after{position:absolute;display:block;border-color:transparent;border-style:solid;border-width:10px;content:"";top:24px;left:-10px;border-right-color:#fff;border-left-width:0;}
 ul.megamenu li .sub-menu .content .hover-menu .menu ul ul li{position:relative;}
-ul.megamenu li .sub-menu .content .hover-menu .menu ul ul li a{display:block;position:relative;margin:0px;padding:10px 30px 8px 30px;background:url(../img/bg-megamenu.png) top left repeat-x;font-size:14px;font-weight:700;}
+ul.megamenu li .sub-menu .content .hover-menu .menu ul ul li a{display:block;position:relative;margin:0px;padding:10px 30px 8px 30px;background:url(https://outdoorhome.com/catalog/view/theme/fastor/img/bg-megamenu.png) top left repeat-x;font-size:14px;font-weight:700;}
 ul.megamenu li .sub-menu .content .hover-menu .menu ul ul li:first-child a{background:none;}
 .megaMenuToggle{display:none;cursor:pointer;}
 .megamenuToogle-wrapper{position:relative;z-index:22;margin-top:-1px;background:#fafafa;transition:all 0.2s ease-in;-webkit-transition:all 0.2s ease-in;-moz-transition:all 0.2s ease-in;}
 .megamenu-type-6 .megamenuToogle-wrapper{border-radius:8px;-webkit-border-radius:8px;-moz-border-radius:8px;}
 .megamenu-type-6 .active .megamenuToogle-wrapper{border-radius:8px 8px 0px 0px;-webkit-border-radius:8px 8px 0px 0px;-moz-border-radius:8px 8px 0px 0px;}
-.megamenuToogle-wrapper .megamenuToogle-pattern{background:url(../img/bg-megamenu.png) top left repeat-x;}
+.megamenuToogle-wrapper .megamenuToogle-pattern{background:url(https://outdoorhome.com/catalog/view/theme/fastor/img/bg-megamenu.png) top left repeat-x;}
 .megamenu-type-32 .megamenuToogle-wrapper .megamenuToogle-pattern{background-image:none;}
-.megamenu-type-32 .megamenuToogle-wrapper .megamenuToogle-pattern > .container{background:url(../img/bg-megamenu.png) bottom left repeat-x;padding-top:10px !important;}
+.megamenu-type-32 .megamenuToogle-wrapper .megamenuToogle-pattern > .container{background:url(https://outdoorhome.com/catalog/view/theme/fastor/img/bg-megamenu.png) bottom left repeat-x;padding-top:10px !important;}
 .megamenu-type-32 .active .megamenuToogle-wrapper .megamenuToogle-pattern > .container{background:none !important;}
 .megamenu-type-33 .megamenuToogle-wrapper .megamenuToogle-pattern{background-image:none;}
 .megamenu-type-33 .megamenuToogle-wrapper .megamenuToogle-pattern > .container{padding-top:10px !important;border-bottom:1px solid transparent;}
 .megamenu-type-33 .active .megamenuToogle-wrapper .megamenuToogle-pattern > .container{border-bottom:1px solid rgba(255, 255, 255, .1);}
-.megamenu-type-7 .megamenuToogle-wrapper .megamenuToogle-pattern > .container{background:url(../img/bg-megamenu.png) bottom left repeat-x;}
+.megamenu-type-7 .megamenuToogle-wrapper .megamenuToogle-pattern > .container{background:url(https://outdoorhome.com/catalog/view/theme/fastor/img/bg-megamenu.png) bottom left repeat-x;}
 .megamenu-type-30 .megamenuToogle-wrapper .megamenuToogle-pattern{background:none;-webkit-box-shadow:0px 0px 0px 1px rgba(0,0,0,0.1);-moz-box-shadow:0px 0px 0px 1px rgba(0,0,0,0.1);box-shadow:0px 0px 0px 1px rgba(0,0,0,0.1);}
 .megamenu-type-23 .megamenuToogle-wrapper .megamenuToogle-pattern{background:none;}
 .megamenu-type-6 .megamenuToogle-wrapper .megamenuToogle-pattern{background:none;}
@@ -491,7 +491,7 @@ ul.megamenu li .sub-menu .content .hover-menu .menu ul ul li:first-child a{backg
 .megamenu-type-20 .megamenu-background .vertical .megamenuToogle-wrapper{border-radius:5px 5px 0px 0px;-webkit-border-radius:5px 5px 0px 0px;-moz-border-radius:5px 5px 0px 0px;}
 .megamenu-type-25 .megamenu-background .vertical .megamenuToogle-wrapper{border-radius:4px;-webkit-border-radius:4px;-moz-border-radius:4px;margin-bottom:-3px;}
 .megamenu-type-21 .megamenu-background .vertical .megamenuToogle-wrapper{border-radius:2px 2px 0px 0px;-webkit-border-radius:2px 2px 0px 0px;-moz-border-radius:2px 2px 0px 0px;}
-.megamenu-background .vertical .megamenuToogle-wrapper .megamenuToogle-pattern{background:url(../img/bg-megamenu.png) top right repeat-y;}
+.megamenu-background .vertical .megamenuToogle-wrapper .megamenuToogle-pattern{background:url(https://outdoorhome.com/catalog/view/theme/fastor/img/bg-megamenu.png) top right repeat-y;}
 .megamenu-type-2 .megamenu-background .vertical .megamenuToogle-wrapper .megamenuToogle-pattern{background:none;}
 .megamenu-type-20 .megamenu-background .vertical .megamenuToogle-wrapper .megamenuToogle-pattern{background:none;}
 .megamenu-type-34 .megamenu-background .vertical .megamenuToogle-wrapper .megamenuToogle-pattern{background:none;}
@@ -503,7 +503,7 @@ ul.megamenu li .sub-menu .content .hover-menu .menu ul ul li:first-child a{backg
 .megamenu-type-14 .megamenu-background .vertical .megamenuToogle-wrapper .megamenuToogle-pattern{background:none;}
 .megamenu-type-17 .megamenu-background .vertical .megamenuToogle-wrapper .megamenuToogle-pattern{background:none;}
 .megamenu-type-10 .megamenu-background .vertical .megamenuToogle-wrapper .megamenuToogle-pattern{border-radius:4px 4px 0px 0px;-webkit-border-radius:4px 4px 0px 0px;-moz-border-radius:4px 4px 0px 0px;}
-.megamenu-background .vertical .megamenuToogle-wrapper .container{padding:26px 30px 23px 45px !important;background:url(../img/bg-megamenu.png) top left repeat-x;color:#333;transition:all 0.2s ease-in;-webkit-transition:all 0.2s ease-in;-moz-transition:all 0.2s ease-in;height:71px;}
+.megamenu-background .vertical .megamenuToogle-wrapper .container{padding:26px 30px 23px 45px !important;background:url(https://outdoorhome.com/catalog/view/theme/fastor/img/bg-megamenu.png) top left repeat-x;color:#333;transition:all 0.2s ease-in;-webkit-transition:all 0.2s ease-in;-moz-transition:all 0.2s ease-in;height:71px;}
 .megamenu-type-5 .megamenu-background .vertical .megamenuToogle-wrapper .container{background:none !important;}
 .megamenu-type-2 .megamenu-background .vertical .megamenuToogle-wrapper .container{height:61px;padding-top:20px !important;background:none;}
 .megamenu-type-16 .megamenu-background .vertical .megamenuToogle-wrapper .container{height:61px;padding-top:20px !important;background:none;}
@@ -533,7 +533,7 @@ ul.megamenu li .sub-menu .content .hover-menu .menu ul ul li:first-child a{backg
 .megamenu-type-24 .megamenu-background .vertical .megamenuToogle-wrapper .container{height:61px;padding-top:20px !important;padding-bottom:20px !important;}
 .standard-body .fixed .megamenu-background .vertical .megamenuToogle-wrapper .container{padding-left:40px !important;}
 .megamenu-background .vertical:hover .megamenuToogle-wrapper .container{color:#fff;}
-.standard-body .full-width .megamenu-background .mega-menu-modules > div:first-child:before{content:'';position:absolute;top:0;left:-1000px;width:1020px;height:71px;z-index:-1;background:#fafafa url(../img/bg-megamenu.png) top left repeat-x;display:block;}
+.standard-body .full-width .megamenu-background .mega-menu-modules > div:first-child:before{content:'';position:absolute;top:0;left:-1000px;width:1020px;height:71px;z-index:-1;background:#fafafa url(https://outdoorhome.com/catalog/view/theme/fastor/img/bg-megamenu.png) top left repeat-x;display:block;}
 .fixed-body-2-2 .megamenu-background .mega-menu-modules > div:first-child:before{display:none !important;}
 .megamenu-type-2 .standard-body .full-width .megamenu-background .mega-menu-modules > div:first-child:before{height:61px;}
 .megamenu-type-16 .standard-body .full-width .megamenu-background .mega-menu-modules > div:first-child:before{height:61px;}
@@ -837,7 +837,7 @@ body[class*="product-product-"].show-vertical-megamenu-product-page #main .slide
 .responsive #main .slideshow-modules .vertical{margin-left:-20px;margin-right:-20px;}
 .responsive #main .slideshow-modules .vertical .megamenu-wrapper{visibility:visible;opacity:1;z-index:1;margin-top:0px !important;position:relative;}
 .responsive .standard-body .full-width .megamenu-background .megaMenuToggle{position:relative;}
-.responsive .standard-body .full-width .megamenu-background .megaMenuToggle:before{content:'';position:absolute;top:0;left:-500%;right:-500%;bottom:0;z-index:-1;background:#fafafa url(../img/bg-megamenu.png) top left repeat-x;display:block;}
+.responsive .standard-body .full-width .megamenu-background .megaMenuToggle:before{content:'';position:absolute;top:0;left:-500%;right:-500%;bottom:0;z-index:-1;background:#fafafa url(https://outdoorhome.com/catalog/view/theme/fastor/img/bg-megamenu.png) top left repeat-x;display:block;}
 .responsive .header-type-3 .megamenu-background .megaMenuToggle:before,
 .responsive .main-fixed2 .megamenu-background .megaMenuToggle:before,
 .responsive .megamenu-type-4 .megamenu-background .megaMenuToggle:before,
@@ -941,7 +941,7 @@ body[class*="product-product-"].show-vertical-megamenu-product-page #main .slide
 .computer-menu a{font-size:14px;}
 .computer-menu li{margin:0px !important;float:left;clear:both;}
 .with-border-left{position:static;}
-.with-border-left:before{content:'';position:absolute;width:1px;top:-30px;bottom:-30px;background:url(../img/bg-megamenu.png) repeat;margin-left:-31px;}
+.with-border-left:before{content:'';position:absolute;width:1px;top:-30px;bottom:-30px;background:url(https://outdoorhome.com/catalog/view/theme/fastor/img/bg-megamenu.png) repeat;margin-left:-31px;}
 .full-width-sub-menu .with-border-left:before{bottom:-40px;}
 @media (max-width:767px){.responsive .with-border-left:before{display:none;}
 }
@@ -1023,6 +1023,7 @@ body[class*="product-product-"].show-vertical-megamenu-product-page #main .slide
 .responsive .megamenu-type-23 #main ul.megamenu > li.pull-right:last-child > a{padding-left:25px;padding-right:10px;}
 .responsive .megamenu-type-23 #main ul.megamenu > li.pull-right:nth-last-child(2) > a{padding-right:10px;}
 }
+
 @media (max-width:1098px){.responsive .megamenu-type-23 #main ul.megamenu{margin:0px -30px;}
 .responsive .megamenu-type-23 ul.megamenu > li > a{padding-left:20px;padding-right:20px;}
 .responsive .megamenu-type-23 ul.megamenu > li > a img{max-width:21px;margin-top:0px;}
