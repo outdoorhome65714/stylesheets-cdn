@@ -239,7 +239,7 @@ span.grillbonus{color:#1c79b9;font-weight:700;font-size:36px;}
 .more-information .tabs:after{clear:both;}
 .more-information .tabs li{float:left;font-size:14px;}
 .more-information .tabs li.active a,
-.more-information .tabs li.active a:hover{background:#4f714c url(../../img/bg-tab-bar-indicator.png) no-repeat center bottom;color:#fff;}
+.more-information .tabs li.active a:hover{background:#4f714c url(https://outdoorhome.com/catalog/view/theme/fastor/img/bg-tab-bar-indicator.png) no-repeat center bottom;color:#fff;}
 .more-information .tabs li a{display:block;padding:8px 14px;text-decoration:none;color:#4f714c;}
 .more-information .tabs li a:hover{background-color:#eee;}
 .more-information table{width:100%;border-top:1px solid #4f714c;border-right:1px solid #4f714c;}
@@ -2009,7 +2009,7 @@ ul.contact-us li i.fa-skype{padding-top:3px;}
 .footer-type-8 .footer .container > .row:last-child:before,
 .footer-type-8 .footer .advanced-grid .container > div > .row:last-child:before{display:block;}
 .footer-type-9 .footer .container > .row:before,
-.footer-type-9 .footer .advanced-grid .container > div > .row:before{left:0;right:0;height:2px;background:url(../img/bg-footer2.png) top left repeat-x;display:block !important;}
+.footer-type-9 .footer .advanced-grid .container > div > .row:before{left:0;right:0;height:2px;background:url(https://outdoorhome.com/catalog/view/theme/fastor/img/bg-footer2.png) top left repeat-x;display:block !important;}
 .footer-type-11 .footer .container > .row:before,
 .footer-type-11 .footer .advanced-grid .container > div > .row:before{display:none;}
 .footer-type-19 .footer .container > .row:before,
@@ -2023,7 +2023,7 @@ ul.contact-us li i.fa-skype{padding-top:3px;}
 .footer-type-17 .footer .container > .row:last-child,
 .footer-type-17 .footer .advanced-grid .container > div > .row:last-child{margin-top:32px;}
 .footer-type-17 .footer .container > .row:last-child:before,
-.footer-type-17 .footer .advanced-grid .container > div > .row:last-child:before{left:-50% !important;right:-50% !important;background:url(../img/bg-footer-carparts.png) top left repeat-x !important;height:18px;margin-top:-2px;}
+.footer-type-17 .footer .advanced-grid .container > div > .row:last-child:before{left:-50% !important;right:-50% !important;background:url(https://outdoorhome.com/catalog/view/theme/fastor/img/bg-footer-carparts.png) top left repeat-x !important;height:18px;margin-top:-2px;}
 .footer-type-17 .footer .container > .row:first-child:before,
 .footer-type-17 .footer .advanced-grid .container > div > .row:first-child:before{left:-50% !important;right:-50% !important;display:block;}
 .footer-type-13 .footer .container > .row:before,
@@ -2193,7 +2193,7 @@ ul.contact-us li i.fa-skype{padding-top:3px;}
 .ui-autocomplete li:first-child{background:none !important;}
 .ui-autocomplete li a{display:block;padding:13px 20px 10px 20px !important;margin:0px !important;cursor:pointer !important;border:none !important;background:none !important;overflow:hidden;border-radius:0px !important;-moz-border-radius:0px !important;-webkit-border-radius:0px !important;color:#333 !important;font-size:12px !important;font-weight:600 !important;line-height:1.6 !important;font-family:'Quattrocento' !important;}
 .ui-autocomplete li a.ui-state-focus{color:#4f714c !important;}
-.ui-autocomplete-loading{background-image:url('../img/loader.gif') !important;background-repeat:no-repeat !important;background-position:center !important;}
+.ui-autocomplete-loading{background-image:url('https://outdoorhome.com/catalog/view/theme/fastor/img/loader.gif') !important;background-repeat:no-repeat !important;background-position:center !important;}
 div.pagination-results{clear:both;padding:16px 0px 0px 0px;margin:0px 0px 20px 0px;position:relative;overflow:auto;}
 #review div.pagination-results{padding-top:0px;margin-top:-10px;}
 div.pagination-results .text-right{padding:21px 0px 0px 10px;}
@@ -2264,10 +2264,10 @@ table.form td textarea{margin-left:7px;}
 .warning,
 .attention,
 .information{padding:16px 14px 13px 40px;margin:0px 0px 30px 0px;clear:both;color:#222;}
-.success{background:#EAF7D9 url('../img/success.png') 13px center no-repeat;border:1px solid #BBDF8D;}
-.warning{background:#FFD1D1 url('../img/warning.png') 13px center no-repeat;border:1px solid #F8ACAC;}
-.attention{background:#FFF5CC url('../img/attention.png') 13px center no-repeat;border:1px solid #F2DD8C;}
-.information{background:#E8F6FF url('../img/information.png') 13px center no-repeat;border:1px solid #B8E2FB;}
+.success{background:#EAF7D9 url('https://outdoorhome.com/catalog/view/theme/fastor/img/success.png') 13px center no-repeat;border:1px solid #BBDF8D;}
+.warning{background:#FFD1D1 url('https://outdoorhome.com/catalog/view/theme/fastor/img/warning.png') 13px center no-repeat;border:1px solid #F8ACAC;}
+.attention{background:#FFF5CC url('https://outdoorhome.com/catalog/view/theme/fastor/img/attention.png') 13px center no-repeat;border:1px solid #F2DD8C;}
+.information{background:#E8F6FF url('https://outdoorhome.com/catalog/view/theme/fastor/img/information.png') 13px center no-repeat;border:1px solid #B8E2FB;}
 .review-list .author,
 .review-list .rating{display:inline-block;}
 .review-list .rating{float:right;width:auto;}
@@ -2453,7 +2453,7 @@ ul.box-filter ul{list-style:none;padding:0px;}
 .facebook_left{width:308px;position:fixed;left:-308px;top:150px;z-index:999;}
 .facebook_right{width:308px;position:fixed;right:-308px;top:150px;z-index:999;}
 .facebook_left .facebook-icon,
-.facebook_right .facebook-icon{height:50px;width:50px;right:-50px;background:url(../img/facebook-icon.png) no-repeat;cursor:pointer;position:absolute;z-index:999;}
+.facebook_right .facebook-icon{height:50px;width:50px;right:-50px;background:url(https://outdoorhome.com/catalog/view/theme/fastor/img/facebook-icon.png) no-repeat;cursor:pointer;position:absolute;z-index:999;}
 .facebook_right .facebook-icon{left:-50px;right:auto;}
 .facebook_right .facebook-content,
 .facebook_left .facebook-content{background-color:#FFFFFF;border:4px solid #4b6baf;position:relative;z-index:999;}
@@ -2462,7 +2462,7 @@ ul.box-filter ul{list-style:none;padding:0px;}
 .facebook_right + .twitter_right,
 .facebook_left + .twitter_left{top:210px;}
 .twitter_left .twitter-icon,
-.twitter_right .twitter-icon{height:50px;width:50px;right:-50px;background:url(../img/twitter-icon.png) no-repeat;cursor:pointer;position:absolute;z-index:998;}
+.twitter_right .twitter-icon{height:50px;width:50px;right:-50px;background:url(https://outdoorhome.com/catalog/view/theme/fastor/img/twitter-icon.png) no-repeat;cursor:pointer;position:absolute;z-index:998;}
 .twitter_right .twitter-icon{left:-50px;right:auto;}
 .twitter_right .twitter-content,
 .twitter_left .twitter-content{background-color:#FFFFFF;border:4px solid #36a7e5;position:relative;z-index:998;}
@@ -2475,8 +2475,8 @@ ul.box-filter ul{list-style:none;padding:0px;}
 .twitter_left + .custom_left,
 .facebook_left + .custom_left{top:210px;}
 .custom_left .custom-icon,
-.custom_right .custom-icon{height:50px;width:50px;right:-50px;background:url(../img/custom-icon.png) no-repeat;cursor:pointer;position:absolute;z-index:996;}
-.custom_left .custom-icon{background:url(../img/custom-icon-right.png) no-repeat;}
+.custom_right .custom-icon{height:50px;width:50px;right:-50px;background:url(https://outdoorhome.com/catalog/view/theme/fastor/img/custom-icon.png) no-repeat;cursor:pointer;position:absolute;z-index:996;}
+.custom_left .custom-icon{background:url(https://outdoorhome.com/catalog/view/theme/fastor/img/custom-icon-right.png) no-repeat;}
 .custom_right .custom-icon{left:-50px;right:auto;}
 .custom_right .custom-content,
 .custom_left .custom-content{background-color:#FFFFFF;border:4px solid #ea2e49;position:relative;z-index:996;padding:10px;}
@@ -2488,7 +2488,7 @@ div.required .control-label:before{content:'* ';color:#F00;font-weight:bold;}
 }
 .camera_slider{margin:30px 0px 0px 0px;position:relative;}
 .camera_wrap{margin:0px !important;width:auto;display:none;position:relative;z-index:1;}
-.spinner{position:absolute;left:0px;top:0px;width:100%;height:100%;z-index:21;background:#fff url(../img/loader.gif) 50% 50% no-repeat;}
+.spinner{position:absolute;left:0px;top:0px;width:100%;height:100%;z-index:21;background:#fff url(https://outdoorhome.com/catalog/view/theme/fastor/img/loader.gif) 50% 50% no-repeat;}
 #slider .fullwidth .camera_slider,
 #slider .fullwidth .camera_slider .camera_wrap{margin:0px !important;padding:0px;}
 .camera_wrap img{display:block;margin:0px auto;}
@@ -2509,8 +2509,8 @@ div.required .control-label:before{content:'* ';color:#F00;font-weight:bold;}
 .camera_wrap .owl-controls .owl-buttons .owl-prev:hover:before,
 .camera_wrap .owl-controls .owl-buttons .owl-next:hover:before{color:#fff;}
 .camera_wrap .owl-controls .owl-pagination{display:none;}
-img[src="image/catalog/blank.gif"]{background:url("../img/loader.gif") no-repeat scroll center center #ffffff;width:100%;max-height:200px;}
-.mfp-iframe-scaler iframe{background:url("../img/loader.gif") no-repeat scroll center center #ffffff !important;}
+img[src="image/catalog/blank.gif"]{background:url("https://outdoorhome.com/catalog/view/theme/fastor/img/loader.gif") no-repeat scroll center center #ffffff;width:100%;max-height:200px;}
+.mfp-iframe-scaler iframe{background:url("https://outdoorhome.com/catalog/view/theme/fastor/img/loader.gif") no-repeat scroll center center #ffffff !important;}
 .quickview{}
 .quickview body{background:#fff;padding:30px 30px 30px 30px;}
 .quickview .mfp-iframe-holder .mfp-content{max-width:900px;height:622px;}
