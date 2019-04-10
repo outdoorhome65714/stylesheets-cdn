@@ -674,9 +674,17 @@ header .slider-header{position:relative;z-index:25;}
 .search-type-7 #top .search_form input{border-radius:2px;-webkit-border-radius:2px;-moz-border-radius:2px;}
 .search-type-6 #top .search_form input{-webkit-box-shadow:1px 1px 2px 0px rgba(255, 255, 255, 0.04), inset 0px 3px 8px 3px rgba(0,0,0,0.3);-moz-box-shadow:1px 1px 2px 0px rgba(255, 255, 255, 0.04), inset 0px 3px 8px 3px rgba(0,0,0,0.3);box-shadow:1px 1px 2px 0px rgba(255, 255, 255, 0.04), inset 0px 3px 8px 3px rgba(0,0,0,0.3);}
 .search_form .button-search,
-.search_form .button-search2{font-family:"Font Awesome 5 Free";position:absolute;right:25px;top:13px;cursor:pointer;font-size:16px;line-height:16px;font-weight:400;color:#333;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;}
+.search_form .button-search2{position:absolute;right:25px;top:13px;cursor:pointer;font-size:16px;line-height:18px;font-weight:400;color:#808080;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;}
+/** CHANGES BY AARON SWAGGERTY **/
 .search_form .button-search:before,
-.search_form .button-search2:before{content:"\f002";}
+.search_form .button-search2:before{content: "\f002";
+    display: inline-block;
+    font-style: normal;
+    font-variant: normal;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    font-family: "Font Awesome 5 Free";
+    font-weight: 900;}
 #top .my-account{display:inline-block;vertical-align:top;width:45px;height:45px;background:#fff;border:1px solid #cccccc;border-radius:3px;-webkit-border-radius:3px;-moz-border-radius:3px;text-align:center;font-size:17px;transition:all 0.2s ease-in;-moz-transition:all 0.2s ease-in;-webkit-transition:all 0.2s ease-in;padding:7px 0px 0px 0px;margin:45px 0px 0px 0px;font-family:Oswald;}
 #top .my-account:hover{border-color:#4f714c;background:#4f714c;color:#fff;}
 .my-account-type-2 #top .my-account{border-radius:0px;-webkit-border-radius:0px;-moz-border-radius:0px;}
@@ -740,7 +748,22 @@ header .slider-header{position:relative;z-index:25;}
 .cart-block-type-7 #top #cart_block .cart-heading p strong{font-weight:bold !important;}
 .cart-block-type-4 #top #cart_block .cart-heading p{padding-top:11px;}
 #top #cart_block .cart-heading p strong{font-weight:600;}
-#top #cart_block .cart-heading p:after{content:"\f078";display:inline-block;font:normal normal normal 14px/1 "Font Awesome 5 Free";font-size:10px;text-rendering:auto;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;transition:all 0.2s ease-in-out;-webkit-transition:all 0.2s ease-in-out;-moz-transition:all 0.2s ease-in-out;color:#4f714c;vertical-align:top;margin:4px 0px 0px 10px;}
+/** CHANGES BY AARON SWAGGERTY **/
+#top #cart_block .cart-heading p:after{content: "\f078";
+display: inline-block;
+font-style: normal;
+font-variant: normal;
+text-rendering: auto;
+-webkit-font-smoothing: antialiased;
+font-family: "Font Awesome 5 Free";
+font-weight: 900;
+font-size: 10px;
+transition: all 0.2s ease-in-out;
+-webkit-transition: all 0.2s ease-in-out;
+-moz-transition: all 0.2s ease-in-out;
+color: #4f714c;
+vertical-align: top;
+margin: 0px 0px 0px 8px;}
 .cart-block-type-6 #top #cart_block .cart-heading p:after{display:none;}
 #top #cart_block:hover .cart-heading p{color:#4f714c;}
 #top #cart_block:hover .cart-heading p:after{color:#333;}
@@ -1238,15 +1261,22 @@ body.checkout-checkout.body-white-type-2 .main-fixed .center-column > *:first-ch
 .col-md-9 .col-md-12 .box-with-products .clear:after{left:0 !important;right:0 !important;}
 }
 .box > .prev,
-.box > .next{position:absolute;bottom:-18px;z-index:10;width:35px;height:35px;border-radius:3px;-webkit-border-radius:3px;-moz-border-radius:3px;border:1px solid #e5e5e5;background:#fff;color:#333;transition:all 0.2s ease-in;-webkit-transition:all 0.2s ease-in;-moz-transition:all 0.2s ease-in;padding:8px 0px 0px 12px;text-align:left;left:50%;font-size:13px;font-family:Oswald;}
+.box > .next{position:absolute;bottom:-18px;z-index:10;width:35px;height:35px;border-radius:3px;-webkit-border-radius:3px;-moz-border-radius:3px;border:1px solid #e5e5e5;background:#fff;color:#333;transition:all 0.2s ease-in;-webkit-transition:all 0.2s ease-in;-moz-transition:all 0.2s ease-in;padding:6px 0px 0px 13px;text-align:left;left:50%;font-size:13px;font-family:Oswald;}
 .buttons-prev-next-type-2 .box > .prev,
 .buttons-prev-next-type-2 .box > .next{border-radius:0px;-webkit-border-radius:0px;-moz-border-radius:0px;}
 .box > .prev:hover,
 .box > .next:hover{background:#4f714c;border-color:#4f714c;color:#ffff;}
 .box > .prev{margin-left:-50px;}
-.box > .next{margin-left:15px;padding:8px 0px 0px 14px;}
+.box > .next{margin-left:15px;padding:6px 0px 0px 13px;}
+/** CHANGES BY AARON SWAGGERTY **/
 .box > .prev:before,
-.box > .next:before{content:"\f053";display:inline-block;font:normal normal normal 14px/1 "Font Awesome 5 Free";font-size:11px;text-rendering:auto;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;transition:all 0.2s ease-in-out;-webkit-transition:all 0.2s ease-in-out;-moz-transition:all 0.2s ease-in-out;}
+.box > .next:before{content:"\f053";display: inline-block;
+font-style: normal;
+font-variant: normal;
+text-rendering: auto;
+-webkit-font-smoothing: antialiased;
+font-family: "Font Awesome 5 Free";
+font-weight: 900;}
 .box > .next:before{content:"\f054";}
 .box > .prev:hover:before,
 .box > .next:hover:before{color:#fff;}
@@ -1742,14 +1772,35 @@ body.firefox-mac .product-list .name-actions > .price .price-old{font-weight:300
 .product-info .thumbnails-carousel .owl-pagination{display:none;}
 .product-info .thumbnails-carousel .owl-buttons{position:absolute;top:50%;margin-top:-12px;width:100%;}
 .product-info .thumbnails-carousel .owl-buttons .owl-prev,
-.product-info .thumbnails-carousel .owl-buttons .owl-next{position:absolute;width:35px;height:35px;border-radius:3px;-webkit-border-radius:3px;-moz-border-radius:3px;border:1px solid #e5e5e5;background:#fff;color:#333;transition:all 0.2s ease-in;-webkit-transition:all 0.2s ease-in;-moz-transition:all 0.2s ease-in;padding:5px 0px 0px 12px;text-align:left;left:-9px;top:50%;margin-top:-5px;font-size:13px;font-family:Oswald;}
+.product-info .thumbnails-carousel .owl-buttons .owl-next{position:absolute;width:35px;height:35px;border-radius:3px;-webkit-border-radius:3px;-moz-border-radius:3px;border:1px solid #e5e5e5;background:#fff;color:#333;transition:all 0.2s ease-in;-webkit-transition:all 0.2s ease-in;-moz-transition:all 0.2s ease-in;padding:6px 0px 0px 13px;text-align:left;left:-9px;top:50%;margin-top:-5px;font-size:13px;font-family:Oswald;}
 .buttons-prev-next-type-2 .product-info .thumbnails-carousel .owl-buttons .owl-prev,
 .buttons-prev-next-type-2 .product-info .thumbnails-carousel .owl-buttons .owl-next{border-radius:0px;-webkit-border-radius:0px;-moz-border-radius:0px;}
 .product-info .thumbnails-carousel .owl-buttons .owl-prev:hover,
 .product-info .thumbnails-carousel .owl-buttons .owl-next:hover{background:#4f714c;border-color:#4f714c;color:#fff;}
-.product-info .thumbnails-carousel .owl-buttons .owl-next{right:-9px;left:auto;padding:5px 0px 0px 14px;}
-.product-info .thumbnails-carousel .owl-buttons .owl-next:before{display:inline-block;font:normal normal normal 14px/1 "Font Awesome 5 Free";content:"\f054";font-size:11px;text-rendering:auto;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;}
-.product-info .thumbnails-carousel .owl-buttons .owl-prev:before{content:"\f053";display:inline-block;font:normal normal normal 14px/1 "Font Awesome 5 Free";font-size:11px;text-rendering:auto;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;}
+.product-info .thumbnails-carousel .owl-buttons .owl-next{right:-9px;left:auto;padding:6px 0px 0px 13px;}
+/** CHANGES BY AARON SWAGGERTY **/
+.product-info .thumbnails-carousel .owl-buttons .owl-next:before{
+	content: "\f054";
+    display: inline-block;
+    font-style: normal;
+    font-variant: normal;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    font-family: "Font Awesome 5 Free";
+    font-weight: 900;-moz-osx-font-smoothing:grayscale;
+	font-size:14px;
+	}
+.product-info .thumbnails-carousel .owl-buttons .owl-prev:before{
+	content: "\f053";
+    display: inline-block;
+    font-style: normal;
+    font-variant: normal;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    font-family: "Font Awesome 5 Free";
+    font-weight: 900;-moz-osx-font-smoothing:grayscale;
+	font-size:14px;
+}
 .product-info .product-center{position:relative;margin-top:50px;}
 .quickview .product-info .product-center{margin-top:0px;}
 .product-info .product-center.col-sm-5{width:44.444444444444444%;}
