@@ -375,7 +375,7 @@ ul.megamenu li .sub-menu .content .static-menu > .menu > ul > li{padding-top:7px
 ul.megamenu li .sub-menu .content .static-menu > .menu > ul > li:first-child{padding-top:0px;}
 ul.megamenu li .sub-menu .content .static-menu .menu ul ul{padding:21px 0px 5px 0px;line-height:30px;}
 ul.megamenu li .sub-menu .content .static-menu .menu ul .categories-image-right ul a{display:block;}
-ul.megamenu li .sub-menu .content .hover-menu .menu > ul > li{position:relative;margin:0px -30px;font-family:Quattrocento;}
+ul.megamenu li .sub-menu .content .hover-menu .menu > ul > li{position:relative;margin:0px -30px;font-family:'Source Serif Pro', serif;}
 ul.megamenu li .sub-menu .content .hover-menu a.main-menu{display:block;position:relative;margin:0px;padding:12px 20px 8px;font-size:14px;font-weight:400;}
 ul.megamenu li .sub-menu .content .hover-menu .col-sm-12 a.main-menu,
 ul.megamenu li .sub-menu .content .col-sm-12 .hover-menu a.main-menu{background:url(https://cdn.jsdelivr.net/gh/outdoorhome65714/img/bg-megamenu.png) top left repeat-x;}
@@ -753,7 +753,7 @@ body[class*="product-product-"].show-vertical-megamenu-product-page #main .slide
 .responsive ul.megamenu li .sub-menu .content .hover-menu .menu > ul:first-child > li:first-child,
 .responsive ul.megamenu li .sub-menu .content .static-menu .menu > ul:first-child > li:first-child{border-top:none;}
 .responsive ul.megamenu li .sub-menu .content .hover-menu .menu ul li a,
-.responsive ul.megamenu li .sub-menu .content .static-menu .menu ul li a{display:block;padding:13px 30px 10px 30px;font-size:14px;font-weight:400;background:#fff;font-family:'Quattrocento';}
+.responsive ul.megamenu li .sub-menu .content .static-menu .menu ul li a{display:block;padding:13px 30px 10px 30px;font-size:14px;font-weight:400;background:#fff;font-family:'Source Serif Pro', serif;}
 .responsive .megamenu-type-6 ul.megamenu li .sub-menu .content .hover-menu .menu ul li a,
 .responsive .megamenu-type-6 ul.megamenu li .sub-menu .content .static-menu .menu ul li a{padding-left:25px;padding-right:25px;}
 .responsive .megamenu-type-9 ul.megamenu li .sub-menu .content .hover-menu .menu ul li a,
