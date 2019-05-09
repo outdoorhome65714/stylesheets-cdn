@@ -68,7 +68,7 @@ ul.megamenu{opacity:1;margin:0px;padding:0px;list-style:none;}
 .megamenu-type-33 ul.megamenu{text-align:center;}
 .megamenu-type-29 ul.megamenu{padding:0px 10px;}
 ul.megamenu > li:first-child{margin-left:0px;}
-ul.megamenu > li{float:left;width:auto;margin:0px 0px 0px 31px;}
+ul.megamenu > li{float:left;width:auto;margin:0px 0px 0px 26px;}
 .megamenu-type-23 #main ul.megamenu{margin:0px -40px;}
 .megamenu-type-27 #main ul.megamenu{margin-left:-30px;}
 .megamenu-type-31 #main ul.megamenu{margin-left:-30px;}
@@ -159,7 +159,7 @@ ul.megamenu > li.search .button-search2{}
 .megamenu-type-15 ul.megamenu > li.search .button-search2{font-size:14px;line-height:14px;}
 .megamenu-type-16 ul.megamenu > li.search .button-search2{font-size:18px;line-height:18px;left:14px;top:9px;width:25px;}
 ul.megamenu .ui-autocomplete{margin-top:10px !important;}
-ul.megamenu > li > a{display:block;position:relative;font-size:18px;padding:10px 2px 9px 2px;}
+ul.megamenu > li > a{display:block;position:relative;font-size:16px;padding:10px 2px 9px 2px;}
 .megamenu-type-29 ul.megamenu > li > a{padding:21px 23px 16px 23px;height:60px;}
 .megamenu-type-32 ul.megamenu > li > a{padding:14px 2px 16px 2px;height:61px;}
 .megamenu-type-33 ul.megamenu > li > a{padding:14px 2px 16px 2px;height:61px;}
@@ -233,7 +233,7 @@ transition: all 0.2s ease-in-out;
 -moz-transition: all 0.2s ease-in-out;
 color: #4f714c;
 vertical-align: top;
-margin: 6px 0px 0px 8px;}
+margin: 4px 0px 0px 8px;}
 .megamenu-type-6 ul.megamenu > li.with-sub-menu > a strong:after{margin-left:10px;}
 .megamenu-type-9 ul.megamenu > li.with-sub-menu > a strong:after{margin-left:10px;}
 ul.megamenu > li.with-sub-menu:hover > a strong:after{color:#333;}
