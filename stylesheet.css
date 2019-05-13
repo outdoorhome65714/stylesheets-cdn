@@ -630,7 +630,7 @@ header .slider-header{position:relative;z-index:25;}
 .header-margin-top-80 header{margin-top:80px;}
 .top-bar{background:url(https://cdn.jsdelivr.net/gh/outdoorhome65714/img/bg-megamenu.png) bottom left repeat-x;padding-bottom:8px;position:relative;}
 .top-bar-type-3 .top-bar{padding-bottom:6px;}
-.top-bar .menu{list-style:none;padding:12px 0px 1px 0px;margin:0px;float:right;}
+.top-bar .menu{list-style:none;padding:12px 0px 1px 0px;margin:0px;margin-right:-10px;float:right;}
 .top-bar-type-2 .top-bar .menu{padding-top:10px;padding-bottom:3px;}
 .top-bar .menu li{display:inline-block;padding:0px 0px 0px 27px;}
 .top-bar-type-2 .top-bar .menu li{padding-left:20px;}
