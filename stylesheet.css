@@ -3700,12 +3700,12 @@ ul.blog-list-default li h5{padding:0px;margin:0px;font-size:15px;line-height:18p
 .news .media-body:before{content:"";background:url(https://cdn.jsdelivr.net/gh/outdoorhome65714/img/bg-news.png) bottom left repeat-x;opacity:0.6;top:0;left:0;bottom:0;right:0;position:absolute;z-index:-1;transition:all 0.2s ease-in;-webkit-transition:all 0.2s ease-in;-moz-transition:all 0.2s ease-in;}
 .news .media-body:hover:before{opacity:0.7;}
 .news .media-body .tags{position:absolute;top:18px;left:20px;right:10px;margin:0px;padding:0px;line-height:1.6;text-align:center;}
-.news .media-body .tags a{display:inline-block;background:#4f714c;font-size:14px;line-height:15px;color:#fff;font-weight:400;text-transform:uppercase;border-radius:3px;-webkit-border-radius:3px;-moz-border-radius:3px;margin:0px 7px 9px 0px;padding:5px 10px;opacity:.75;}
+.news .media-body .tags a{display:inline-block;background:#4f714c;font-size:14px;line-height:15px;color:#fff;font-weight:900;text-transform:uppercase;border-radius:3px;-webkit-border-radius:3px;-moz-border-radius:3px;margin:0px 7px 9px 0px;padding:5px 10px;opacity:.75;}
 .news .media-body .tags a:hover{background:#333;}
 .news .media-body .bottom{position:absolute;bottom:0;left:0;right:0;text-align:center;transition:all 0.2s ease-in;-webkit-transition:all 0.2s ease-in;-moz-transition:all 0.2s ease-in;}
 .news.v1 .media-body .bottom{color:#fff;}
 .news .media-body:hover .bottom{bottom:10px;}
-.news .media-body .date-published{display:block;font-size:14px;font-weight:300;padding:0px 15px 0px 15px;text-align:center;letter-spacing:1px;}
+.news .media-body .date-published{display:block;font-size:14px;font-weight:600;padding:0px 15px 0px 15px;text-align:center;letter-spacing:1px;}
 .news .media-body h5{padding:15px;margin:0px;font-size:20px;line-height:23px;font-family:'Quattrocento', serif;text-transform:none;font-weight:700 !important;color:#fff;text-align:center;}
 .news.v2 .media{padding-bottom:53px;}
 .news.v2 .media .thumb-holder img{-webkit-transform:scale(1,1);-webkit-transition-timing-function:ease-out;-webkit-transition-duration:250ms;-moz-transform:scale(1,1);-moz-transition-timing-function:ease-out;-moz-transition-duration:250ms;transform:scale(1,1);transition-timing-function:ease-out;transition-duration:250ms;}
