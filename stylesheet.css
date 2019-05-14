@@ -227,7 +227,7 @@ span.grillbonus{color:#1c79b9;font-weight:700;font-size:36px;}
 .grills p{font-size:18px;font-weight:400;font-family:'Quattrocento', serif;line-height:26px;}
 .bbq h1{font-size:40px;font-weight:700;}
 .bbq h2{font-size:22px;font-weight:400;}
-#main > div.main-content.full-width.home > div.background > div.pattern > div > div > div > div.box.blog-module.box-no-advanced > div.box-heading{padding:5px 2px 9px;font-size:24px;border-top:2px solid #4f714c;border-bottom:2px solid #4f714c;width:100%;text-transform:uppercase;}
+#main > div.main-content.full-width.home > div.background > div.pattern > div > div > div > div.box.blog-module.box-no-advanced > div.box-heading{padding:5px 2px 4px;font-size:24px;border-top:2px solid #4f714c;border-bottom:2px solid #4f714c;width:100%;text-transform:uppercase;}
 #main > div.main-content.full-width.home > div.background > div.pattern > div > div:nth-child(1) > div > div > div > div.box.blog-module.box-no-advanced > div.box-content > div:nth-child(2) > div > h3{font-family:'Quattrocento', serif;text-align:center;font-size:20px;margin-top:15px;margin-bottom:0px;}
 .top-bar .menu-contact{list-style:none;padding:12px 0px 1px 0px;margin-left:-9px;margin:0px;float:left;}
 .top-bar .menu-contact li{display:inline-block;padding:0px 0px 0px 27px}
