@@ -243,7 +243,7 @@
 .responsive .posts .big-news .post-content .right .overflow{max-width:none;float:none;padding:0px 25px 0px 25px;}
 .responsive .standard-body .full-width .center-column.content-with-background{padding:15px;margin-top:0px !important;}
 .responsive .top-bar .menu-contact li{padding:0px 7px;display:inline-block;}
-.responsive .top-bar .menu-contact{float:none;margin-left:0px;}
+.responsive .top-bar .menu-contact{float:none;margin-left:0px !important;}
 .responsive .header-type-20 #top .my-account{margin:10px 0px 0px;}
 .howitworks h2{font-weight:700;color:#4db648;font-size:36px;}
 .holiday a{font-size:34px !important;}
