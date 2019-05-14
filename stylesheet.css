@@ -19,7 +19,7 @@ font-size:24px;
 .eggfest-homepage h4{font-family:'Quattrocento', serif;font-size:14px;line-height:1.25;}
 div.eggfest-homepage{padding:0px;margin-right:-10px;margin-left:-10px;}
 #homepagebox{padding-top:5px;padding-bottom:5px;}
-#homepageboxheading{padding:5px 2px 9px;font-size:24px;border-top:2px solid #4f714c;border-bottom:2px solid #4f714c;width:100%;text-transform:uppercase;}
+#homepageboxheading{padding:5px 2px 4px;font-size:24px;border-top:2px solid #4f714c;border-bottom:2px solid #4f714c;width:100%;text-transform:uppercase;}
 .embed-container{position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;margin-bottom:5px;}
 .embed-container iframe, .embed-container object, .embed-container embed{position:absolute;top:0;left:0;width:100%;height:100%;}
 .quickcheckout-content > div > label{font-size:16px;}
