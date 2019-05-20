@@ -286,8 +286,8 @@
 .napoleoneventheader h1{top:15px;font-size:20px;}
 .napoleonevent h1{font-size:36px;}
 .napoleonevent h2{font-size:28px;}
-.napoleoneventextreme h1{font-size:72px;}
-.napoleoneventextreme h2{font-size:36px;line-height:36px;}
+.napoleoneventextreme h1{font-size:72px;line-height:72px}
+.napoleoneventextreme h2{font-size:36px;line-height:45px;}
 .napoleonevent2{margin:0px !important;}
 .napoleonevent2 h3{margin:30px 0px 0px !important;padding:0px !important;}
 .napoleoneventfooter h2{font-size:28px;padding-bottom:20px !important;}
