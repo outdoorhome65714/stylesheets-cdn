@@ -183,7 +183,58 @@ img.bgebonusimage{border:3px solid #00583d;border-radius:3px;}
 .xxlpromo h3{font-size:65px;font-weight:700;color:#fff;margin:0px auto !important;line-height:75px;}
 .xxlpromo h4{font-size:65px;font-weight:700;color:#fff;margin:0px auto !important;line-height:75px;}
 .xxlpromo ul{list-style-type:square;font-size:20px;font-weight:400;font-family:'Quattrocento', serif;padding:20px 0px 0px 20px;text-align:left;line-height:28px;}
+
 .py-4 {padding:15px;}
+
+.offer-grid > div[class^='col-']:after {
+content: ' ';
+position: absolute;
+top: 30%;
+right: 0;
+height: 40%;
+width: 1px;
+background-image: linear-gradient(to bottom, transparent 50%, #969799 50%);
+background-size: 100% 9px;
+}
+
+.napoleoneventextreme p{
+color: #fff;
+font-size: 24px;
+text-align: center;
+font-weight: 600;
+}
+
+.napoleoneventextreme p.font-md{
+color: #fff;
+font-size: 36px;
+text-align: center;
+font-weight: 400;
+line-height: .5em;
+}
+
+.napoleoneventextreme p.font-md span{
+color: #0095CE;
+font-weight: 700;
+}
+
+.py-4 img {
+width:100%;
+margin-top:15px;
+}
+
+.napoleoneventextreme p.upto{
+color: #fff;
+font-size: 36px;
+text-align: center;
+font-weight: 400;
+line-height: .5em;
+}
+
+.napoleoneventextreme p.upto span{
+color: #0095CE;
+font-weight: 700;
+}
+
 .napoleoneventheader{position:relative;display:block;width:100%;max-width:1130px;padding:0px !important;margin:0px auto !important;text-align:center;}
 .napoleoneventheader h1{position:absolute;top:35px;left:0;right:0;margin:0 !important;padding:0 !important;text-align:center;font-weight:700;text-transform:uppercase;color:#FFFFFF;font-size:70px;}
 .napoleoneventheader h1 span{color:#1c79b9;}
