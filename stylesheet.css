@@ -92,6 +92,18 @@ div.eggfest-homepage{padding:0px;margin-right:-10px;margin-left:-10px;}
 .center-column .tab-content h2{font-size:28px;}
 #main > div.main-content.full-width.home > div.background > div.pattern > div > div:nth-child(1) > div > div > div > div.box.blog-module.box-no-advanced{padding-top:3px;margin-top:15px;}
 .careers p{font-size:16px;font-family:'Quattrocento', serif;font-weight:normal;}
+.yoderspecial h1 {
+    font-size: 48px;
+    color: #F58025;
+    text-align: center;
+    font-weight: 700;
+}
+.yoderspecial h3 {
+  font-size:28px;
+  color:#666666;
+  text-align:center;
+  font-weight:400;
+}
 .yoder{}
 .yoder h2{font-size:36px;letter-spacing:-1px;text-align:center;font-weight:700;}
 .yoderheader{background-color:#F27E2B;}
@@ -197,14 +209,14 @@ background-image: linear-gradient(to bottom, transparent 50%, #969799 50%);
 background-size: 100% 9px;
 }
 
-.napoleoneventextreme p{
+.napoleonmini p{
 color: #fff;
 font-size: 24px;
 text-align: center;
 font-weight: 600;
 }
 
-.napoleoneventextreme p.font-md{
+.napoleonmini p.font-md{
 color: #fff;
 font-size: 36px;
 text-align: center;
@@ -212,7 +224,7 @@ font-weight: 400;
 line-height: .5em;
 }
 
-.napoleoneventextreme p.font-md span{
+.napoleonmini p.font-md span{
 color: #0095CE;
 font-weight: 700;
 }
@@ -222,7 +234,7 @@ width:100%;
 margin:15px 0px;
 }
 
-.napoleoneventextreme p.upto{
+.napoleonmini p.upto{
 color: #fff;
 font-size: 36px;
 text-align: center;
@@ -230,7 +242,7 @@ font-weight: 400;
 line-height: .5em;
 }
 
-.napoleoneventextreme p.upto span{
+.napoleonmini p.upto span{
 color: #0095CE;
 font-weight: 700;
 letter-spacing: -2px;	
@@ -256,9 +268,9 @@ letter-spacing: -2px;
 .napoleoneventextreme h5{font-size:48px;color:#0095CE;text-transform:uppercase;font-weight:700;line-height:50px;margin:10px auto !important;padding:0px !important;text-shadow:0px 0px 10px #000000;}
 span.grillname{color:#1c79b9;font-weight:700;}
 span.grillbonus{color:#1c79b9;font-weight:700;font-size:36px;}
-.napgrills-img{width:75%;height:auto;display:block;margin:0 auto;}
+.napgrills-img{width:100%;height:auto;display:block;margin:0 auto;}
 .napgrillsextreme-img{width:100%;height:auto;display:block;margin:0 auto;}
-.napgrills-img{width:85%;height:auto;display:block;margin:0 auto;}
+.napgrills-img{width:100%;height:auto;display:block;margin:0 auto;}
 .furnituretagline{font-weight:400;font-family:'Quattrocento', serif;font-size:15px;}
 .furnituretagline a{line-height:inherit;}
 .keywordboost h1{font-weight:400;font-family:'Quattrocento', serif;font-size:15px;}
