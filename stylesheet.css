@@ -92,6 +92,30 @@ div.eggfest-homepage{padding:0px;margin-right:-10px;margin-left:-10px;}
 .center-column .tab-content h2{font-size:28px;}
 #main > div.main-content.full-width.home > div.background > div.pattern > div > div:nth-child(1) > div > div > div > div.box.blog-module.box-no-advanced{padding-top:3px;margin-top:15px;}
 .careers p{font-size:16px;font-family:'Quattrocento', serif;font-weight:normal;}
+.bgebonus h1 {
+font-size: 60px;
+font-weight: 700;
+color: #4db648;
+margin: 0px auto !important;
+line-height: 1em;
+text-align:center;
+}
+.bgebonus h2 {
+font-size: 60px;
+font-weight: 700;
+color: #4db648;
+margin: 0px auto !important;
+line-height: 60px;
+text-align:center;
+}
+.bgebonus h3 {
+text-align:center;
+color:#666666;
+letter-spacing:-1px;
+font-size:36px;
+margin: 0px auto !important;
+width: 50%;
+}
 .yoderspecial h1 {
     font-size: 48px;
     color: #F58025;
