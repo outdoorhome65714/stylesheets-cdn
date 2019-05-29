@@ -159,7 +159,7 @@ width: 50%;
 .eggsizes h4{font-weight:700;font-size:18px;}
 .eggsizes h5{font-size:24px;font-weight:400;}
 .eggsizes h6{font-family:'Quattrocento', serif;font-size:20px;font-weight:400;color:#333333;}
-.eggsizes h7{font-family:'Quattrocento', serif;font-weight:400;font-size:18px;}
+.eggsizes h7{font-family:'Quattrocento', serif;font-weight:400;font-size:18px;line-height:1.2em}
 .eggsizes p{font-family:'Quattrocento', serif;font-size:16px;}
 .bgeheadline{}
 .bgeheadline h1{font-size:44px;font-weight:700;font-family:'Source Sans Pro', sans-serif;}
