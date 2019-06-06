@@ -9,7 +9,7 @@ font-size:24px;
 .eggprice {font-weight:700;color:#4EB448;font-family:'Source Sans Pro', sans-serif;font-size:72px;line-height: 60px;}
 .eggpriceretrail {position: relative;color: #000;font-weight: 700;}
 .eggpriceretrail:before {position: absolute;content: '';left: 0;top: 50%;right: 0;border-top: 2px solid;border-color: inherit;-webkit-transform: skewY(-10deg);-moz-transform: skewY(-10deg);transform: skewY(-7deg);}
-.eggfest h1{font-size:60px;font-family:'Quattrocento', serif;font-weight:400;line-height:40px;}
+.eggfest h1{font-size:60px;font-family:'Quattrocento', serif;font-weight:400;line-height:55px;}
 .eggfest h2{font-size:36px;font-weight:700;}
 .eggfest h3{font-size:24px;font-family:'Quattrocento', serif;}
 .eggfest h4{font-size:18px;font-family:'Quattrocento', serif;}
