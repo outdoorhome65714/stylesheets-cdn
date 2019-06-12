@@ -518,7 +518,7 @@ width:100%;
 .responsive .center-column .tab-content{padding-top:25px;padding-bottom:25px;}
 .responsive .standard-body .full-width .center-column .tab-content{padding:20px 5px;}
 .responsive .body-white .standard-body .full-width .center-column .tab-content{padding-left:0px;padding-right:0px;}
-.responsive .htabs{padding-top:34px;}
+.responsive .htabs{padding-top:25px;}
 .responsive .box-type-3 .htabs:before{top:30px;}
 .responsive .box-type-14 .htabs:before{top:30px;}
 .responsive div.pagination-results .text-left,
