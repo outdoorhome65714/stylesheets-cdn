@@ -1824,7 +1824,7 @@ position:absolute;
 .product-filter .options .button-group button:hover,
 .product-filter .options .button-group .active{color:#000;}
 .product-info{}
-.body-other .standard-body .full-width .product-info{padding:40px;position:relative;}
+.body-other .standard-body .full-width .product-info{padding:25px 40px;position:relative;}
 .body-other .standard-body .full-width .product-info:before{content:'';position:absolute;top:50px;left:0;right:0;bottom:0;background:#fff;}
 .box-type-9 .body-other .standard-body .full-width .product-info:before{border-radius:3px;-webkit-border-radius:3px;-moz-border-radius:3px;}
 .product-page-type-2 .standard-body .full-width .product-info:before{display:none;}
@@ -2385,7 +2385,7 @@ table.form td{padding:5px 13px 0px 0px;}
 table.form td input,
 table.form td select,
 table.form td textarea{margin-left:7px;}
-.htabs{z-index:2;text-align:center;margin:0px -15px;padding:44px 0px 0px 0px;position:relative;}
+.htabs{z-index:2;text-align:center;margin:0px -15px;padding:25px 0px 0px 0px;position:relative;}
 .box-type-5 .htabs{padding-top:54px;}
 .box-type-3 .htabs{padding-top:49px;}
 .box-type-14 .htabs{padding-top:59px;}
