@@ -228,6 +228,7 @@
 .responsive #top #cart_block .cart-heading p{padding-left:7px;}
 }
 @media (max-width:767px){
+#main .new {margin-top: -5px;margin-left: -5px;}
 .manufacturer-content > ul > li > a {font-size:16px;}
 #mc_embed_signup label{font-size:22px;}
 #tab-description > ul{padding-left:25px;}
