@@ -298,6 +298,8 @@ letter-spacing: -2px;
 .napoleoneventextreme h3 span{font-size:48px;font-weight:700;line-height:48px;color:#fff;padding:0px !important;margin-bottom:0px !important;text-shadow:0px 0px 10px #000000;}
 .napoleoneventextreme h4{font-size:72px;color:#0095CE;text-transform:uppercase;font-weight:700;line-height:50px;margin:10px auto !important;padding:0px !important;text-shadow:0px 0px 10px #000000;}
 .napoleoneventextreme h5{font-size:48px;color:#0095CE;text-transform:uppercase;font-weight:700;line-height:50px;margin:10px auto !important;padding:0px !important;text-shadow:0px 0px 10px #000000;}
+.napoleonextreme h6{font-size:30px;line-height:30px;}
+.napoleonextreme h6{font-size:48px;font-weight:700;color:#0095CE;}
 span.grillname{color:#1c79b9;font-weight:700;}
 span.grillbonus{color:#1c79b9;font-weight:700;font-size:36px;}
 .napgrills-img{width:100%;height:auto;display:block;margin:0 auto;}
