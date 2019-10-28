@@ -228,7 +228,19 @@
 .responsive #top #cart_block .cart-heading p{padding-left:7px;}
 }
 @media (max-width:767px){
-#main .new  
+.sale {
+    background: #ff0000;
+    padding: 0px 20px;
+    color: #fff;
+    font-weight: 600;
+    font-size: 20px;
+    text-transform: uppercase;
+    position: absolute;
+    z-index: 1;
+    border-radius: 3px;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    }
 #main .new {margin-top: -5px;margin-left: -5px;background: #00b4ff;
     padding: 0px 20px;
     color: #fff;
