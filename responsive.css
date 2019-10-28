@@ -228,7 +228,18 @@
 .responsive #top #cart_block .cart-heading p{padding-left:7px;}
 }
 @media (max-width:767px){
-#main .new {margin-top: -5px;margin-left: -5px;}
+#main .new  
+#main .new {margin-top: -5px;margin-left: -5px;background: #00b4ff;
+    padding: 0px 20px;
+    color: #fff;
+    font-weight: 600;
+    font-size: 20px;
+    text-transform: uppercase;
+    position: absolute;
+    z-index: 1;
+    border-radius: 3px;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;}
 .manufacturer-content > ul > li > a {font-size:16px;}
 #mc_embed_signup label{font-size:22px;}
 #tab-description > ul{padding-left:25px;}
