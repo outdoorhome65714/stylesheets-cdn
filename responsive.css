@@ -238,7 +238,8 @@
     position: absolute;
     z-index: 1;
     }
-#main .new {margin-top: -5px;margin-left: -5px;background: #00b4ff;
+#main .new {
+    background: #00b4ff;
     padding: 0px 20px;
     color: #fff;
     font-weight: 600;
