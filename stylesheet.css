@@ -65,10 +65,10 @@ div.eggfest-homepage{padding:0px;margin-right:-10px;margin-left:-10px;}
 #mc_embed_signup_footer .small-meta{}
 #mc_embed_signup_footer .nowrap{white-space:nowrap;}
 #mc_embed_signup_footer .clear{clear:none;display:inline;}
-#mc_embed_signup_footer label{display:block;padding:8px 30px 15px 0px;font-weight:400;font-size:18px;color:#ffffff;line-height:26px;}
+#mc_embed_signup_footer label{display:block;padding:8px 30px 15px 0px;font-weight:400;font-size:18px;color:#8fd988;line-height:20px;}
 #mc_embed_signup_footer input.email{display:block;padding:0 15px;margin:0px 30px 5px 0px;max-height:35px;width:90%;min-width:130px;font-family:'Quattrocento', serif;}
-#mc_embed_signup_footer input.text{display:block;padding:0 15px;margin:0px 30px 5px 0px;max-height:35px;width:90%;min-width:130px;font-family:'Quattrocento', serif;}
-#mc_embed_signup_footer input.button{display:block;width:35%;margin:0 0 10px 0;min-width:120px;}
+#mc_embed_signup_footer input.name{display:block;padding:0 15px;margin:0px 30px 5px 0px;max-height:35px;width:90%;min-width:130px;font-family:'Quattrocento', serif;}
+#mc_embed_signup_footer input.button{display:block;width:35%;margin:15px 0 10px 0;min-width:120px;}
 #mc_embed_signup_footer div#mce-responses{float:left;top:-1.4em;padding:0em .5em 0em .5em;overflow:hidden;width:90%;margin:0 5%;clear:both;}
 #mc_embed_signup_footer div.response{margin:1em 0;padding:1em .5em .5em 0;font-weight:700;float:left;top:-1.5em;z-index:1;width:80%;}
 #mc_embed_signup_footer #mce-error-response{display:none;}
