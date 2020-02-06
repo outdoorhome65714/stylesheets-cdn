@@ -4,6 +4,11 @@ font-size:24px;
 #tab-description > ul {
   padding-left:20px;
 }
+.onesignal-customlink-explanation.medium p {
+	font-weight:900;
+	font-size:18px;
+	font-family:'Source Sans Pro', sans-serif;
+}
 .backgroundhighlight{color:#ffffff;text-decoration:none;background-color:#4F714C;padding:8px 10px 10px;}
 .eggfest{}
 .eggprice {font-weight:700;color:#4EB448;font-family:'Source Sans Pro', sans-serif;font-size:72px;line-height: 60px;}
