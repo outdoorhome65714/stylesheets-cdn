@@ -441,7 +441,7 @@ width:100%;
 .responsive .body-other .standard-body .full-width .box-with-products .clear:after,
 .responsive .body-other .standard-body .full-width .box-with-products .clear:before{left:0px;right:0px;}
 .responsive .row{margin-left:-10px;margin-right:-10px;}
-.responsive .row > div{padding-left:8px;padding-right:8px;}
+.responsive .row > div{padding-left:5px;padding-right:5px;}
 .responsive .fixed-body-2-2 .main-content .pattern > .container{padding-left:20px !important;padding-right:20px !important;}
 .responsive .standard-body .full-width .container{padding:0px 20px;}
 .responsive .standard-body .fixed{padding:0px 20px;}
