@@ -1,3 +1,10 @@
+.display-8 {font-size: 30px;line-height: 48px;font-weight: 300;color: #4f714c;}
+.display-button1 {text-align: center;padding: 15px;font-size: 20px;font-weight: 300;line-height: 24px;width:100%;}
+.display-button2 {text-align:center;padding:15px;font-size:30px;font-weight: 300;width:100%;}
+.display-3 {line-height:40px;}
+.display-button3 {padding:2px !important;font-size:16px;width:100%;text-align:center;font-weight:300;background: #999999;}
+.scheduleappt {margin:0px 25% 20px;}
+
 .manufacturer-content > ul > li > a {
 font-size:24px;
 }
