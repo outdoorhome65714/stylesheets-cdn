@@ -339,7 +339,7 @@
 .howitworks h2{font-weight:700;color:#4db648;font-size:36px;}
 .holiday a{font-size:34px !important;}
 .disappear{display:none;}
-.header-notice p{padding:10px 0px 12px 0px;margin:0px;font-size:16px;font-weight:700;letter-spacing:.25px;text-align:left;}
+.header-notice p{padding:10px 0px 12px 0px;margin:0px;font-size:16px;font-weight:700;letter-spacing:.25px;text-align:left;line-height:20px;}
 #homepagebox{margin-top:-13px;margin-bottom:5px;}
 .headertrio{margin-top:40px;padding-bottom:10px;}
 .moveup{margin-top:20px;}
