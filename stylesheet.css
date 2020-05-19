@@ -2737,7 +2737,7 @@ body .mfp-counter{color:#dedede;}
 .header-notice{background:#4f714c;color:#fff;font-size:12px;font-weight:600;display:none;}
 .header-notice a{color:#fff;}
 .header-notice p{padding:15px 0px 17px 0px;margin:0px;}
-.header-notice a.close-notice{display:block;float:right;width:36px;height:36px;border-radius:3px;-webkit-border-radius:3px;-moz-border-radius:3px;background:#fff;margin:6px 10px;text-align:center;padding:9px 0px 0px 0px;color:#4f714c;-webkit-transition:all 0.2s ease-out;-moz-transition:all 0.2s ease-out;-o-transition:all 0.2s ease-out;-ms-transition:all 0.2s ease-out;transition:all 0.2s ease-out;}
+.header-notice a.close-notice{display:block;float:right;width:25px;height:25px;border-radius:3px;-webkit-border-radius:3px;-moz-border-radius:3px;background:#fff;margin:12px 0px 12px 10px;text-align:center;padding:9px 0px 0px 0px;color:#4f714c;-webkit-transition:all 0.2s ease-out;-moz-transition:all 0.2s ease-out;-o-transition:all 0.2s ease-out;-ms-transition:all 0.2s ease-out;transition:all 0.2s ease-out;}
 .header-notice a.close-notice:before{content:"\f00d";font-style: normal;
     font-variant: normal;
     text-rendering: auto;
