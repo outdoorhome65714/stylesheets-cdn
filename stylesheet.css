@@ -2738,7 +2738,12 @@ body .mfp-counter{color:#dedede;}
 .header-notice a{color:#fff;}
 .header-notice p{padding:15px 0px 17px 0px;margin:0px;}
 .header-notice a.close-notice{display:block;float:right;width:36px;height:36px;border-radius:3px;-webkit-border-radius:3px;-moz-border-radius:3px;background:#fff;margin:6px 10px;text-align:center;padding:9px 0px 0px 0px;color:#4f714c;-webkit-transition:all 0.2s ease-out;-moz-transition:all 0.2s ease-out;-o-transition:all 0.2s ease-out;-ms-transition:all 0.2s ease-out;transition:all 0.2s ease-out;}
-.header-notice a.close-notice:before{content:"\f00d";font:normal normal normal 14px/1 "Font Awesome 5 Free";text-rendering:auto;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;}
+.header-notice a.close-notice:before{content:"\f00d";font-style: normal;
+    font-variant: normal;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    font-family: "Font Awesome 5 Free";
+	-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;}
 .header-notice a.close-notice:hover{background:#333333;color:#fff;}
 .advanced-grid{position:relative;}
 .advanced-grid .container{}
