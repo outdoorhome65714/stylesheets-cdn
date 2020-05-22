@@ -2685,7 +2685,7 @@ ul.box-filter ul{list-style:none;padding:0px;}
 .timepicker-picker .btn{background:none !important;color:#808080 !important;text-shadow:none !important;-webkit-text-shadow:none !important;-moz-text-shadow:none !important;}
 div.required .control-label:before{content:'* ';color:#F00;font-weight:bold;}
 .carousel-brands{margin:0px !important;padding:15px 25px;position:relative;}
-@media (max-width:767px){.responsive .banner-module{margin:15px 0px 0px 0px !important;}
+@media (max-width:767px){.responsive .banner-module{margin:0px 0px 0px 0px !important;}
 }
 .camera_slider{margin:30px 0px 0px 0px;position:relative;}
 .camera_wrap{margin:0px !important;width:auto;display:none;position:relative;z-index:1;}
