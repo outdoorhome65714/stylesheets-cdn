@@ -292,6 +292,9 @@
   } 
 .display-button2 {text-align:center;font-size:20px;margin-bottom: -20px;
   }
+..display-button4 {width:100%;
+  }	
+	
 .scheduleappt {margin:0px 10% 20px;}
 		
 .butn {
