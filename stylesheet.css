@@ -1521,7 +1521,7 @@ body.firefox-mac .category-box-type-4 .box-category > ul li ul li a{font-weight:
 .product-grid-type-6 .product-grid .product-hover .only-hover{padding-bottom:27px;}
 .product-grid-type-8 .product-grid .product-hover .only-hover{padding-bottom:27px;}
 .product-grid .product-hover:hover .only-hover{visibility:visible;opacity:1;}
-#main .new{background:#4B6C87;padding:0px 10px;color:#fff;font-weight:600;font-size:30px;text-transform:uppercase;position:absolute;z-index:1;text-shadow: 2px 2px 2px #222222;}
+#main .new{background:#FEC32D;padding:0px 25px;color:#fff;font-weight:600;font-size:30px;text-transform:uppercase;position:absolute;z-index:1;text-shadow: 1px 1px 2px #666666;}
 .sale{background:#ff0000;padding:5px 40px;color:#fff;font-weight:600;font-size:30px;text-transform:uppercase;position:absolute;z-index:1;}
 .product-grid-type-8 #main .new,
 .product-grid-type-8 #main .sale{margin-top:0px;}
