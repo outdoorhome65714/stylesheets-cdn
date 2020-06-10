@@ -1581,6 +1581,10 @@ body.firefox-mac .product-grid .product .price .price-old{font-weight:300 !impor
 /* AARON SWAGGERTY */
 .product-grid .product .only-hover ul li a{display:block;width:45px;height:45px;border-radius:3px;-webkit-border-radius:3px;-moz-border-radius:3px;background:#fff;border:1px solid #ccc;transition:all 0.2s ease-in;-webkit-transition:all 0.2s ease-in;-moz-transition:all 0.2s ease-in;font-size:16px;padding:10px 0px;text-align:center;cursor:pointer;color:#777777;}
 .product-grid .product .only-hover ul li a:hover{background:#4f714c;border-color:#4f714c;color:#fff;}
+/* AARON SWAGGERTY */
+.product-grid .product .only-hover ul li a.calltoorder:hover {background: #BA3E2D !important;}
+.product-grid .product .only-hover ul li a.instoreonly:hover {background: #4B6C87 !important;}
+
 .products-buttons-action-type-2 .product-grid .product .only-hover ul li a{border-radius:0px;-webkit-border-radius:0px;-moz-border-radius:0px;}
 .products-buttons-action-type-3 .product-grid .product .only-hover ul li a{border-radius:3px;-webkit-border-radius:3px;-moz-border-radius:3px;}
 .products-buttons-action-type-4 .product-grid .product .only-hover ul li a{border-radius:3px;-webkit-border-radius:3px;-moz-border-radius:3px;}
@@ -1985,7 +1989,7 @@ position:absolute;
 .product-info .options h2{margin:0px;font-size:20px;padding:0px;}
 .product-info .options .form-group{padding:15px 0px 0px 0px;margin:0px;line-height:23px;}
 .product-info .options .error{margin:0px;}
-.product-info .options2 > div > label{text-transform:uppercase;font-size:11px;font-weight:bold;}
+.product-info .options2 > div > label{text-transform:uppercase;font-size:24px;font-weight:bold;}
 .product-info .radio-type-button{display:inline-block;vertical-align:top;width:auto;margin:10px 7px 5px 0px;padding:0px;}
 .product-info .radio-type-button input{visibility:hidden;position:absolute;}
 .product-info .radio-type-button span{padding:2px;border:1px solid rgba(0, 0, 0, .1);display:block;-webkit-transition:all 0.2s ease-out;-moz-transition:all 0.2s ease-out;-o-transition:all 0.2s ease-out;-ms-transition:all 0.2s ease-out;transition:all 0.2s ease-out;border-radius:3px;-webkit-border-radius:3px;-moz-border-radius:3px;}
