@@ -1570,6 +1570,7 @@ body.firefox-mac .category-box-type-4 .box-category > ul li ul li a{font-weight:
 .product-grid .product-hover:hover .name{visibility:hidden;opacity:0;}
 .product-grid-type-2 .product-grid .product .name{font-weight:400;padding-bottom:5px;}
 .product-grid .product .price{color:#4f714c;font-size:20px;font-weight:700;}
+.product-grid .product .price .price-new{color:#BA3E2D;}
 .product-grid .product-hover:hover .price{visibility:hidden;opacity:0;}
 .product-grid-type-5 .product-grid .product .price{line-height:1.2;}
 .product-grid .product .price .price-old{color:#232323;font-weight:400 !important;text-decoration:line-through;padding-right:2px;}
