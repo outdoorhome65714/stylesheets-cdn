@@ -178,10 +178,10 @@ width: 50%;
 .bgeheadline h1{font-size:44px;font-weight:700;font-family:'Source Sans Pro', sans-serif;}
 .bgedescription{padding-right:20px !important;}
 .bgedescription p{font-family:'Quattrocento', serif;font-size:18px;}
-.capacity{border:3px solid #003f2d;padding:0px 15px!important;margin-top:20px;margin-bottom:60px;background-color:#4f714c;}
+.capacity{border:2px solid #4f714c;padding:0px 15px!important;margin-top:20px;margin-bottom:60px;border-radius:3px;}
 .capacity h1{font-weight:700;color:#ffffff;font-size:36px;}
-.capacity h4{color:#ffffff;font-size:24px;}
-.capacity p{font-size:16px;font-family:'Quattrocento', serif;color:#ffffff;}
+.capacity h4{color:#ffffff;font-size:24px;font-weight:900;}
+.capacity p{font-size:16px;font-family:'Quattrocento', serif;color:#4f714c;}
 .spacer hr{margin:10px;border:none;}
 .grsb{margin-top:30px;}
 .grsb img{padding:15px 15px 0px 0px;}
