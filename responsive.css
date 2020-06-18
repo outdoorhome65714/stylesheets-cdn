@@ -228,6 +228,10 @@
 .responsive #top #cart_block .cart-heading p{padding-left:7px;}
 }
 @media (max-width:767px){
+	
+.button, .btn {padding:10px 25px 10px 25px;
+	}
+	
 .display-1 {
 	font-size: 40px;
     font-weight: 300;
