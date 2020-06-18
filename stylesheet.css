@@ -2008,7 +2008,7 @@ position:absolute;
 .box-type-4 .product-info .cart{border-radius:3px;-webkit-border-radius:3px;-moz-border-radius:3px;}
 .box-type-7 .product-info .cart{border-radius:0px;-webkit-border-radius:0px;-moz-border-radius:0px;}
 .product-page-type-2 .standard-body .full-width .product-info .cart{border-left:none;border-right:none;border-bottom:none;}
-.product-info .cart .add-to-cart{padding:20px 30px 20px 30px;}
+.product-info .cart .add-to-cart{padding:15px;}
 .product-info .cart .add-to-cart a{margin:10px 0px 0px 0px;}
 .product-info .cart .add-to-cart p,
 .product-info .cart .add-to-cart input,
