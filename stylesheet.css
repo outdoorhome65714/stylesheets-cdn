@@ -1863,7 +1863,7 @@ position:absolute;
 .product-filter .options .button-group button:hover,
 .product-filter .options .button-group .active{color:#000;}
 .product-info{}
-.body-other .standard-body .full-width .product-info{padding:25px 40px;position:relative;}
+.body-other .standard-body .full-width .product-info{padding:25px 15px;position:relative;}
 .body-other .standard-body .full-width .product-info:before{content:'';position:absolute;top:50px;left:0;right:0;bottom:0;background:#fff;}
 .box-type-9 .body-other .standard-body .full-width .product-info:before{border-radius:3px;-webkit-border-radius:3px;-moz-border-radius:3px;}
 .product-page-type-2 .standard-body .full-width .product-info:before{display:none;}
