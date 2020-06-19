@@ -200,7 +200,7 @@
 .responsive .product-grid > .row > div{width:100%;float:none;}
 */
 .responsive .product-grid > .row > div{float:left;}
-.product-grid .product {padding:10px;}
+*/.product-grid .product {padding:10px;}*/
 
 
 .responsive .box-product .carousel .item .product-grid .row:first-child > div{width:50%;float:left;}
