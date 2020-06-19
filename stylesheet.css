@@ -1487,7 +1487,7 @@ body.firefox-mac .category-box-type-4 .box-category > ul li ul li a{font-weight:
 .standard-body .fixed .col-md-12 .col-md-12.center-column .product-grid:after{left:-40px;right:-40px;}
 .border-width-1 .standard-body .full-width .col-md-12 .col-md-12.center-column .product-grid:after{left:-4000px;right:-4000px;}
 .box-product .owl-controls{display:none !important;}
-.product-grid .product{padding:15px 5px 10px;text-align:center;position:relative;}
+.product-grid .product{padding:13px 5px;text-align:center;position:relative;}
 .product-grid-type-8 .product-grid .product{padding-top:30px;padding-bottom:30px;padding-left:0px;padding-right:0px;}
 .product-grid-type-6 .product-grid .product{padding-top:29px;padding-bottom:33px;}
 .product-grid-type-3 .product-grid .product{padding-bottom:0px;}
