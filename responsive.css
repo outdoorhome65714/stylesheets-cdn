@@ -317,7 +317,7 @@
     z-index: 1;
     }
 #main .new {
-    background: #00b4ff;
+    background: #FEC32D;
     padding: 0px 10px;
     color: #fff;
     font-weight: 600;
@@ -325,6 +325,7 @@
     text-transform: uppercase;
     position: absolute;
     z-index: 1;
+    margin:0px;
    }
 .manufacturer-content > ul > li > a {font-size:16px;}
 #mc_embed_signup label{font-size:22px;}
