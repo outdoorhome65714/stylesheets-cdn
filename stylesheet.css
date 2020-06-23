@@ -180,7 +180,7 @@ width: 50%;
 .bgedescription p{font-family:'Quattrocento', serif;font-size:18px;}
 .capacity{border:2px solid #4f714c;padding:0px 15px!important;margin-top:20px;margin-bottom:60px;border-radius:3px;}
 .capacity h1{font-weight:700;color:#ffffff;font-size:36px;}
-.capacity h4{color:#ffffff;font-size:24px;font-weight:900;}
+.capacity h4{color:#4f714c;font-size:24px;font-weight:900;}
 .capacity p{font-size:16px;font-family:'Quattrocento', serif;color:#4f714c;}
 .spacer hr{margin:10px;border:none;}
 .grsb{margin-top:30px;}
