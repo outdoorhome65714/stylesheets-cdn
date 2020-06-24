@@ -1963,7 +1963,7 @@ position:absolute;
 .product-info .description,
 .product-info .price,
 .product-info .options{padding:24px 0px 22px 0px;background:url(https://cdn.jsdelivr.net/gh/outdoorhome65714/img/bg-megamenu.png) bottom left repeat-x;}
-.product-info .description{padding-top:0px;font-weight:600;line-height:23px;}
+.product-info .description{padding-top:0px;font-weight:600;font-size:16px}
 .product-info .description span{display:inline-block;width:140px;max-width:50%;font-weight:normal;}
 .firefox-mac .product-info .description span{font-weight:300;}
 .product-info .price{background:none;}
