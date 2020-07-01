@@ -311,6 +311,8 @@ span.grillbonus{color:#1c79b9;font-weight:700;font-size:36px;}
 .napgrills-img{width:100%;height:auto;display:block;margin:0 auto;}
 .napgrillsextreme-img{width:100%;height:auto;display:block;margin:0 auto;}
 .napgrills-img{width:100%;height:auto;display:block;margin:0 auto;}
+
+.leadbuttonrow {margin:30px 8px;border-top:2px solid #4f714c;border-bottom:2px solid #4f714c;}
 .furnituretagline{font-weight:400;font-family:'Quattrocento', serif;font-size:15px;}
 .furnituretagline a{line-height:inherit;}
 .keywordboost h1{font-weight:400;font-family:'Quattrocento', serif;font-size:15px;}
@@ -424,13 +426,16 @@ body .fixed-body:before{position:absolute;z-index:-20;top:0;left:0;right:0;botto
 .display-7 {font-size: 36px;font-weight: 300;font-family: 'Source Sans Pro';text-align: center;text-transform: uppercase;}
 .display-8 {font-size: 30px;line-height: 48px;font-weight: 300;color: #4f714c;}
 .display-9 {font-size:28px; font-weight: 300; line-height:1.25; color: #4f714c; text-align:center;}
+.display-10 {font-size:28px; font-weight: 400; line-height:1.25; color: #4f714c; text-align:center;margin: 40px 0px 10px;}
+
 .display-button1 {text-align: center;padding: 15px;font-size: 20px;font-weight: 300;line-height: 24px;width:100%;}
 .display-button2 {text-align:center;padding:10px;font-size:30px;font-weight: 300;width:100%;margin-bottom: -15px;}
 .display-button3 {padding:2px !important;font-size:16px;width:100%;text-align:center;font-weight:300;background: #999999;}
 .display-button4 {text-align: center;padding: 15px;font-size: 24px;font-weight: 300;line-height: 24px;width:50%;font-family:'Source Sans Pro';}
+.display-button5 {text-align:center;padding:10px;font-size:36px;font-weight: 900;width:50%;margin-bottom: 40px; padding: 5px !important;}
+
 .furniturelist {padding: 10px 20px;font-size:16px;}
 .scheduleappt {margin:0px 25% 20px;}
-
 
 @media (min-width:1466px){.standard-body .fixed3{padding:0px;}
 .standard-body .fixed3 .background{margin:0px auto;max-width:1426px;background:#fff;position:relative;}
