@@ -2589,7 +2589,7 @@ table img{max-width:none;}
 .cart-total{overflow:auto;margin-bottom:25px;padding-top:25px;}
 .cart-total table{float:right;}
 .cart-total td{padding:0px 0px 0px 30px;text-align:right;}
-.cart-total table tr td:last-child{color:#4f714c;font-size:14px;font-weight:600;}
+.cart-total table tr td:last-child{color:#4f714c;font-size:18px;font-weight:600;}
 .download-list,
 .order-list{overflow:auto;}
 .download-list .download-id,
