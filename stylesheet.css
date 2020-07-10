@@ -1723,7 +1723,7 @@ body.firefox-mac .product-grid .product .price .price-old{font-weight:300 !impor
 .box-type-12 #mfilter-content-container{margin-top:50px;}
 .box-type-19 #mfilter-content-container{margin-top:50px;}
 .box-type-16 #mfilter-content-container{margin-top:50px;}
-.product-search #mfilter-content-container{margin-top:50px;}
+.product-search #mfilter-content-container{margin-top:20px;}
 #mfilter-content-container .product-list{position:absolute;width:100%;max-height:100px;overflow:hidden;opacity:0;z-index:-10;}
 #mfilter-content-container .product-list.active{position:relative;visibility:visible;max-height:none;overflow:visible;opacity:1;z-index:0;}
 .product-list{background:#fff url(https://cdn.jsdelivr.net/gh/outdoorhome65714/img/bg-megamenu.png) top left repeat-x;}
