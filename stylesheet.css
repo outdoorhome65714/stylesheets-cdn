@@ -427,6 +427,7 @@ body .fixed-body:before{position:absolute;z-index:-20;top:0;left:0;right:0;botto
 .display-8 {font-size: 30px;line-height: 48px;font-weight: 300;color: #4f714c;}
 .display-9 {font-size:28px; font-weight: 300; line-height:1.25; color: #4f714c; text-align:center;}
 .display-10 {font-size:28px; font-weight: 400; line-height:1.25; color: #4f714c; text-align:center;margin: 40px 0px 10px;}
+.tenrecipes {font-size: 46px; font-weight: 300; text-align: center; letter-spacing: -1px; line-height: 46px;}
 
 .display-button1 {text-align: center;padding: 15px;font-size: 20px;font-weight: 300;line-height: 24px;width:100%;}
 .display-button2 {text-align:center;padding:10px;font-size:30px;font-weight: 300;width:100%;margin-bottom: -15px;}
