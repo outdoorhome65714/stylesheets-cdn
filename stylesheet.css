@@ -312,7 +312,7 @@ span.grillbonus{color:#1c79b9;font-weight:700;font-size:36px;}
 .napgrillsextreme-img{width:100%;height:auto;display:block;margin:0 auto;}
 .napgrills-img{width:100%;height:auto;display:block;margin:0 auto;}
 
-.leadbuttonrow {margin:30px 8px;border-top:2px solid #eeeeee;border-bottom:2px solid #eeeeee;}
+.leadbuttonrow {margin:30px 8px;padding-top: 20px;padding-bottom: 20px;}
 .furnituretagline{font-weight:400;font-family:'Quattrocento', serif;font-size:15px;}
 .furnituretagline a{line-height:inherit;}
 .keywordboost h1{font-weight:400;font-family:'Quattrocento', serif;font-size:15px;}
