@@ -256,8 +256,9 @@
 .matrialarts-menu a{font-size:14px;line-height:40px;}
 }
 @media (max-width:767px){
-	.responsive .body-header-type-27 ul.megamenu{padding-top:0;}
-	.responsive .fashion7-banners2 .row > div:before{left:-20px;right:-20px;top:0px;bottom:auto;height:1px;width:auto;}
+.breadcrumb .container > div {text-align:left;}	
+.responsive .body-header-type-27 ul.megamenu{padding-top:0;}
+.responsive .fashion7-banners2 .row > div:before{left:-20px;right:-20px;top:0px;bottom:auto;height:1px;width:auto;}
 .responsive .fashion7-banners .row > div:before{left:-20px;right:-20px;top:-1px;bottom:auto;height:1px;width:auto;}
 .responsive .fashion7-features .row > div:before{display:none;}
 .responsive .fashion6-contact .row > div:before{display:none;}
@@ -270,9 +271,7 @@
 .responsive .cookie .operations .button{margin:0px auto;}
 .responsive .cookie .operations{float:none;width:auto;text-align:center;}
 .responsive .banner-module{margin:0px 0px 0px 0px !important;}	
-.button, .btn {padding:10px 25px 10px 25px;
-	}
-	
+.button, .btn {padding:10px 25px 10px 25px;}
 .display-1 {
 	font-size: 40px;
     font-weight: 300;
@@ -281,7 +280,6 @@
     line-height: 36px;
     margin: 10px 0px 0px 0px !important;
     padding: 0px 25px !important;}
-	
 .display-2 {
 	font-size: 18px;
     font-weight: 300;
@@ -289,7 +287,6 @@
     margin: 10px 0px 10px 0px !important;
     padding: 0px 20px !important;
     line-height: 16px;}
-
 .display-3 {
 	font-size: 30px;
     font-weight: 300;
@@ -299,7 +296,6 @@
     margin: 10px 0px 0px 0px !important;
     padding: 0px !important;
     text-align: left;}
-	
 .display-4 {
 	font-size: 16px;
     font-weight: 300;
@@ -307,7 +303,6 @@
     margin: 10px 0px 10px 0px !important;
     padding: 0px !important;
     text-align: left;}
-
 .display-5 {
 	font-size: 30px;
     font-weight: 300;
@@ -317,37 +312,25 @@
     margin: 10px 0px 0px 0px !important;
     padding: 0px !important;
     text-align: center;}
-	
 .display-6 {
 	font-size: 24px;
     font-weight: 900;
     font-family: 'Source Sans Pro';
     padding: 15px !important;
     text-align: center;}
-	
 .display-7 {
 	font-size: 36px;
     font-weight: 300;
     font-family: 'Source Sans Pro';
-	text-align:left;
-}
-.display-8 {font-size: 26px;line-height: 30px;text-align:left !important;
-  }
-	
+	text-align:left;}
+.display-8 {font-size: 26px;line-height: 30px;text-align:left !important;}
 .display-10 {font-size:28px; font-weight: 400; line-height:1.25; color: #4f714c; text-align:left;margin: 20px 0px 5px;}
-
 .tenrecipes {font-size: 33px; font-weight: 300; text-align: center; letter-spacing: -1px; line-height: 40px;}
-
-.display-button1 {text-align:center;font-size:20px;
-  } 
-.display-button2 {text-align:center;font-size:20px;margin-bottom: -20px;
-  }
-..display-button4 {width:100%;
-  }	
+.display-button1 {text-align:center;font-size:20px;} 
+.display-button2 {text-align:center;font-size:20px;margin-bottom: -20px;}
+.display-button4 {width:100%;}	
 .display-button5 {text-align:center;padding:10px;font-size:24px;font-weight: 900;width:100%;margin-bottom: 30px; padding: 5px !important;}
-	
-.scheduleappt {margin:0px 10% 20px;}
-		
+.scheduleappt {margin:0px 10% 20px;}		
 .butn {
 	font-size:18px;
 	padding:5px 30px;
