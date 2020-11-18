@@ -256,6 +256,9 @@
 .matrialarts-menu a{font-size:14px;line-height:40px;}
 }
 @media (max-width:767px){
+.megamenuToogle-wrapper .container {font-size:20px;padding: 12px 30px 8px 30px !important;}
+ul.megamenu > li > a strong {font-size:20px;}
+.responsive ul.megamenu li .sub-menu .content .hover-menu .menu ul li a {font-size:16px;}
 .breadcrumb .container > div {text-align:left;}	
 .responsive .body-header-type-27 ul.megamenu{padding-top:0;}
 .responsive .fashion7-banners2 .row > div:before{left:-20px;right:-20px;top:0px;bottom:auto;height:1px;width:auto;}
