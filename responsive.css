@@ -1204,7 +1204,7 @@ input[type="search"],
 input[type="tel"],
 input[type="color"],
 .uneditable-input,
-select{background:#f5f5f5;color:#808080;font-size:16px;font-weight:700;font-family:'Quattrocento', serif;margin:5px 0px;padding:12px 20px 11px 20px;border:none;box-shadow:none;-moz-box-shadow:none;-webkit-box-shadow:none;border-radius:25px;-moz-border-radius:25px;-webkit-border-radius:3px;-webkit-transition:background-color linear 0.2s, border-color linear 0.2s;-moz-transition:background-color linear 0.2s, border-color linear 0.2s;-o-transition:background-color linear 0.2s, border-color linear 0.2s;transition:background-color linear 0.2s, border-color linear 0.2s;height:45px;}
+select{background:#f5f5f5;color:#808080;font-size:16px;font-weight:700;font-family:'Montserrat', sans-serif;margin:5px 0px;padding:12px 20px 11px 20px;border:none;box-shadow:none;-moz-box-shadow:none;-webkit-box-shadow:none;border-radius:25px;-moz-border-radius:25px;-webkit-border-radius:3px;-webkit-transition:background-color linear 0.2s, border-color linear 0.2s;-moz-transition:background-color linear 0.2s, border-color linear 0.2s;-o-transition:background-color linear 0.2s, border-color linear 0.2s;transition:background-color linear 0.2s, border-color linear 0.2s;height:45px;}
 .inputs-type-2 textarea,
 .inputs-type-2 input[type="text"],
 .inputs-type-2 input[type="password"],
