@@ -582,7 +582,7 @@ width:100%;
 .responsive .box-with-categories .box-heading{padding-left:25px;padding-right:25px;}
 .responsive .box-category > ul > li > a{padding-left:25px;padding-right:25px;}
 .responsive .box-category ul li li a{padding-left:40px;}
-.responsive .standard-body .full-width .product-grid{padding:0px 9px;overflow:hidden;}
+.responsive .standard-body .full-width .product-grid{padding:0px;overflow:hidden;}
 .responsive .border-width-1 .standard-body .full-width .product-grid{padding:0px;overflow:visible;}
 .responsive .box-product .carousel{margin:0px -9px;padding:0px 9px;}
 .responsive .product-grid .product:before{right:-11px;}
